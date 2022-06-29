@@ -4,8 +4,7 @@
 
 New commands introduced in this project include: echo, cat, head, tail, find, wc, sort, uniq, grep, tr, rev, cut
 
-[0. Hello World](./0. Hello World)
-Write a script that prints “Hello, World”, followed by a new line to the standard output.
+[0. Hello World] (./0. Hello World)-Write a script that prints “Hello, World”, followed by a new line to the standard output.
 
 1. Confused smiley
 
